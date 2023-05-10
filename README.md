@@ -5,3 +5,4 @@ A simple temperature converter app created under the virtual internship program 
 
 **Task 2**
 #Portfolio
+A Portfolio created using HTML, CSS and Java Script.
